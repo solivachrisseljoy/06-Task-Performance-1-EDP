@@ -1,0 +1,6 @@
+C:\Users\STUDENT\Downloads\CalculatorPrivateAssemblySoliva\bin\Debug\CalculatorPrivateAssemblySoliva.dll
+C:\Users\STUDENT\Downloads\CalculatorPrivateAssemblySoliva\bin\Debug\CalculatorPrivateAssemblySoliva.pdb
+C:\Users\STUDENT\Downloads\CalculatorPrivateAssemblySoliva\obj\Debug\CalculatorPrivateAssemblySoliva.csproj.AssemblyReference.cache
+C:\Users\STUDENT\Downloads\CalculatorPrivateAssemblySoliva\obj\Debug\CalculatorPrivateAssemblySoliva.csproj.CoreCompileInputs.cache
+C:\Users\STUDENT\Downloads\CalculatorPrivateAssemblySoliva\obj\Debug\CalculatorPrivateAssemblySoliva.dll
+C:\Users\STUDENT\Downloads\CalculatorPrivateAssemblySoliva\obj\Debug\CalculatorPrivateAssemblySoliva.pdb

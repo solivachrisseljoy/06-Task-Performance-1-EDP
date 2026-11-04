@@ -1,0 +1,14 @@
+C:\Users\STUDENT\Downloads\BasicCalculatorSoliva\bin\Debug\BasicCalculatorSoliva.exe.config
+C:\Users\STUDENT\Downloads\BasicCalculatorSoliva\bin\Debug\BasicCalculatorSoliva.exe
+C:\Users\STUDENT\Downloads\BasicCalculatorSoliva\bin\Debug\BasicCalculatorSoliva.pdb
+C:\Users\STUDENT\Downloads\BasicCalculatorSoliva\obj\Debug\BasicCalculatorSoliva.csproj.AssemblyReference.cache
+C:\Users\STUDENT\Downloads\BasicCalculatorSoliva\obj\Debug\BasicCalculatorSoliva.FrmBasicCalculator.resources
+C:\Users\STUDENT\Downloads\BasicCalculatorSoliva\obj\Debug\BasicCalculatorSoliva.Properties.Resources.resources
+C:\Users\STUDENT\Downloads\BasicCalculatorSoliva\obj\Debug\BasicCalculatorSoliva.csproj.GenerateResource.cache
+C:\Users\STUDENT\Downloads\BasicCalculatorSoliva\obj\Debug\BasicCalculatorSoliva.csproj.CoreCompileInputs.cache
+C:\Users\STUDENT\Downloads\BasicCalculatorSoliva\obj\Debug\BasicCalculatorSoliva.exe
+C:\Users\STUDENT\Downloads\BasicCalculatorSoliva\obj\Debug\BasicCalculatorSoliva.pdb
+C:\Users\STUDENT\Downloads\BasicCalculatorSoliva\obj\Debug\BasicCalculatorSoliva.exe.config
+C:\Users\STUDENT\Downloads\BasicCalculatorSoliva\bin\Debug\CalculatorPrivateAssemblySoliva.dll
+C:\Users\STUDENT\Downloads\BasicCalculatorSoliva\bin\Debug\CalculatorPrivateAssemblySoliva.pdb
+C:\Users\STUDENT\Downloads\BasicCalculatorSoliva\obj\Debug\BasicCal.8754FEB2.Up2Date
